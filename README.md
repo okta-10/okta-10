@@ -4,7 +4,7 @@
 
 <a href="https://t.me/mystickernel"><img alt="MysticKernel | Channel" src="https://img.shields.io/badge/dynamic/json?logo=telegram&label=%40mystickernel&labelColor=282c34&suffix=+members&color=00C907&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3Dmystickernel&longCache=true"/></a>
 
-### My Contributed ###
+<!-- ### My Contributed ###
 <p align="center">
 	<img width="40" src="https://github.githubassets.com/images/spinners/octocat-spinner-64.gif">
 <p align="center"><strong>We didn't receive a proper request from your browser.</strong></p>
@@ -16,4 +16,4 @@
 </p>
 <p></p>
 <p></p>
-</p>
+</p> -->
