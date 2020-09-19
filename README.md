@@ -4,9 +4,9 @@
 
 ### Join us on Telegram 😀👇 ###
 <a href="https://t.me/MysticKernel">
-	<img alt="MysticKernel" src="https://img.shields.io/badge/dynamic/json?logo=telegram&label=Mystic%20Kernel%20Channel&labelColor=282c34&suffix=+members&color=00C907&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3DMysticKernel&longCache=true"/>
+	<img alt="MysticKernel" src="https://img.shields.io/badge/dynamic/json?logo=telegram&label=Mystic%20Kernel%20Channel&labelColor=273849&suffix=+members&color=00D000&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3DMysticKernel&longCache=true"/>
 </a>
 
 <a href="https://t.me/MysticKernelDiscussion">
-	<img alt="MysticKernelDiscussion" src="https://img.shields.io/badge/dynamic/json?logo=telegram&label=Mystic%20Kernel%20Discussion&labelColor=282c34&suffix=+members&color=00C907&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3DMysticKernelDiscussion&longCache=true"/>
+	<img alt="MysticKernelDiscussion" src="https://img.shields.io/badge/dynamic/json?logo=telegram&label=Mystic%20Kernel%20Discussion&labelColor=273849&suffix=+members&color=00D000&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3DMysticKernelDiscussion&longCache=true"/>
 </a>
