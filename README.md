@@ -1,4 +1,7 @@
 ## 🐈 Hey there! I am using GitHub. ##
+
+<a> <img src="https://komarev.com/ghpvc/?username=okta-10&style=flat-square" alt="okta-10" /> </a>
+
 [![Okta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=okta-10&show_icons=true&count_private=true&hide_border=false&layout=compact&title_color=00FF00&icon_color=00FFFF&text_color=FFFF00&bg_color=273849&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okta-10&layout=compact&show_icons=true&hide_border=false&title_color=00FF00&icon_color=00FFFF&text_color=FFFF00&bg_color=273849)](https://github.com/okta-10) 
 
