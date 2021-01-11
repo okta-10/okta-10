@@ -1,7 +1,7 @@
 ## 🐈 Hey there! I am using GitHub. ##
 
 <a> <img src="https://komarev.com/ghpvc/?username=okta-10&style=flat-square" alt="okta-10" /> </a>
-<a href="https://www.instagram.com/oktapra_amtono"> <img src="https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white" /></a>
+<a href="https://www.instagram.com/oktapra.amtono"> <img src="https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white" /></a>
 <a href="https://www.facebook.com/oktapra.amtono"> <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat&labelColor=3b5998&logo=facebook&logoColor=white" /></a>
 
 [![Okta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=okta-10&show_icons=true&count_private=true&hide_border=false&layout=compact&title_color=00FF00&icon_color=00FFFF&text_color=FFFF00&bg_color=273849&include_all_commits=true)
