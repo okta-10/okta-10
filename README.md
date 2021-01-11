@@ -1,6 +1,7 @@
 ## 🐈 Hey there! I am using GitHub. ##
 
 <a> <img src="https://komarev.com/ghpvc/?username=okta-10&style=flat-square" alt="okta-10" /> </a>
+<a href="https://t.me/okta_10"> <img src="https://img.shields.io/badge/-Telegram-0088cc?style=flat&labelColor=0088cc&logo=telegram&logoColor=white" /></a>
 <a href="https://www.instagram.com/oktapra.amtono"> <img src="https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white" /></a>
 <a href="https://www.facebook.com/oktapra.amtono"> <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat&labelColor=3b5998&logo=facebook&logoColor=white" /></a>
 
