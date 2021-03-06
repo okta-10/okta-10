@@ -15,4 +15,4 @@
 
 ##
 
-![Okta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=okta-10&show_icons=true&count_private=true&hide_border=false&layout=compact&title_color=00FF00&icon_color=00FFFF&text_color=FFFF00&bg_color=273849&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=okta-10&show_icons=true&count_private=true&hide_border=false&layout=compact&&theme=dark)
