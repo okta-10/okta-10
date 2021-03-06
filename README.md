@@ -16,3 +16,4 @@
 ##
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=okta-10&show_icons=true&count_private=true&hide_border=false&layout=compact&&theme=dark)
+![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=okta-10&show_icons=true&count_private=true&hide_border=false&layout=compact&&theme=dark)
